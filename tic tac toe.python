@@ -199,7 +199,7 @@ def flip_player():
 # Play a game of tic tac toe
 play_game()
 
-outpu:
+output:
 
 - | - | -     1 | 2 | 3
 - | - | -     4 | 5 | 6
