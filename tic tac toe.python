@@ -198,3 +198,67 @@ def flip_player():
 #Start Execution
 # Play a game of tic tac toe
 play_game()
+
+outpu:
+
+- | - | -     1 | 2 | 3
+- | - | -     4 | 5 | 6
+- | - | -     7 | 8 | 9
+
+
+X's turn.
+Choose a position from 1-9: 1
+
+
+X | - | -     1 | 2 | 3
+- | - | -     4 | 5 | 6
+- | - | -     7 | 8 | 9
+
+
+O's turn.
+Choose a position from 1-9: 5
+
+
+X | - | -     1 | 2 | 3
+- | O | -     4 | 5 | 6
+- | - | -     7 | 8 | 9
+
+
+X's turn.
+Choose a position from 1-9: 9
+
+
+X | - | -     1 | 2 | 3
+- | O | -     4 | 5 | 6
+- | - | X     7 | 8 | 9
+
+
+O's turn.
+Choose a position from 1-9: 2
+
+
+X | O | -     1 | 2 | 3
+- | O | -     4 | 5 | 6
+- | - | X     7 | 8 | 9
+
+
+X's turn.
+Choose a position from 1-9: 3
+
+
+X | O | X     1 | 2 | 3
+- | O | -     4 | 5 | 6
+- | - | X     7 | 8 | 9
+
+
+O's turn.
+Choose a position from 1-9: 8
+
+
+X | O | X     1 | 2 | 3
+- | O | -     4 | 5 | 6
+- | O | X     7 | 8 | 9
+
+
+O won.
+
